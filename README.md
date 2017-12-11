@@ -1,0 +1,1 @@
+This is Majestyks first git project
